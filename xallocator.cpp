@@ -3,6 +3,8 @@
 #include "Fault.h"
 #include <iostream>
 
+#include <Arduino.h>
+
 using namespace std;
 
 #ifndef CHAR_BIT
